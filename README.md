@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#15005B&height=120&section=header"/>
 
-[![Typing SVG] (https://readme-typing-svg.herokuapp.com/?
-color=#15005b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+be+welcome!+My+name+is+Roger+Figueró.+:29%)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#15005b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+be+welcome!+My+name+is+Roger+Figueró.+:29%)](https://git.io/typing-svg)
+
+<i class="devicon-python-plain-wordmark colored"></i> <i class="devicon-azuresqldatabase-plain colored"></i>
 <!--
 **rogerfiguero/rogerfiguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
