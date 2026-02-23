@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#15005B&height=120&section=header"/>
 
-<i class="devicon-python-plain-wordmark colored"></i> 
-<i class="devicon-azuresqldatabase-plain colored"></i>
+<i class="devicon-python-plain-wordmark color=#15005b"></i> 
+<i class="devicon-azuresqldatabase-plain color=#15005b"></i>
 <!--
 **rogerfiguero/rogerfiguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
